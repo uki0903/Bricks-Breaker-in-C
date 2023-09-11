@@ -21,3 +21,7 @@
 
 ![image](https://github.com/uki0903/Bricks-Breaker-in-C/assets/37703895/511d2e36-b47d-418e-b635-a81d454e866e)
 <업그레이드 씬>
+
+
+※본프로젝트는 중앙대학교 소프트웨어학과 학술동아리 ZeroPage의 대회를 위해 만들어진 프로젝트입니다.※
+https://zp-portal.org/sprouthon/
